@@ -3,12 +3,18 @@
 
 <h1>
     <a href="https://brunowenzel07.github.io/">
-     <img align="center" alt="Logo Elidiana Andrade" width="36px" src="https://user-images.githubusercontent.com/97471199/230773934-2eeb538d-d992-4199-872e-117c1c635d81.png"></a>
+     <img align="center" alt="Logo BW7 TECH" width="36px" src="https://raw.githubusercontent.com/brunowenzel07/brunowenzel07.github.io/main/Logo400x400.png"></a>
     <span>Bruno Wenzel</span>
 </h1>
 
 <p align="justify">
-    
+    <li>Technical training in Administration</li>
+    <li>Computer Engineering</li>
+    <li>MBA Postgraduate in Big Data</li>
+    |------------------------------------------------------|
+    <li>PHP | Laravel</li>
+    <li>Python | Django | Tornado | FastAPI</li>
+    <li>C++ | C#</li>
 </p>
 <!--
 [![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://brunowenzel07.github.io/)
